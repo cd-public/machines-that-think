@@ -8,7 +8,7 @@ The grasp of color by the artists and artisans that produced this work is stunni
 
 Using a variety of scientific and mathematical techniques, seaborn contains are four uniquely impressive "color maps", known as "perceptually uniform color maps". Seaborn additional provides a way to address five earlier efforts from matplotlib which I find impressive but less so. They are as follows:
 
-```
+```python
 from PIL import Image as im
 import numpy as np
 import seaborn as sns
