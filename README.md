@@ -20,3 +20,7 @@ CMPS = ["rocket", "mako", "flare", "crest", "viridis", "plasma", "inferno", "mag
 CMPS = [sns.color_palette(cmap, as_cmap=True) for cmap in CMPS] # I found this on the Seaborn website
 CMPS[1]
 ```
+
+
+
+<ing src="output.png">
