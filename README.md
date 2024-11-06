@@ -23,4 +23,4 @@ CMPS[1]
 
 
 
-<ing src="output.png">
+<img src="output.png">
